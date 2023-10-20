@@ -23,7 +23,7 @@ fun App() {
     Box(
         Modifier.verticalScroll(rememberScrollState())
             .horizontalScroll(rememberScrollState())
-            .background(Color(red=102, green=248, blue=255))
+        
     ) {
 
             Column {
