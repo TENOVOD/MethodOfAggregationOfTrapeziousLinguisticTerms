@@ -1,0 +1,10 @@
+package data
+
+import model.AlternativeAndCriteriaCell
+import screens.elements.methods_of_aggregation.MethodOfAggregation
+
+var GLOBAL_CURRENT_METHODS_OF_AGGREGATION = MethodOfAggregation.AGGREGATION_OF_GENERALIZED_TRAPEZOIDAL_LT
+
+var GLOBAL_MATRIX_BY_AGGREGATION_METHOD = mutableListOf<AlternativeAndCriteriaCell>()
+
+var GLOBAL_ALFA = 0f

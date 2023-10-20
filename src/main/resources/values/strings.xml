@@ -1,0 +1,5 @@
+<resources>
+    <!-- Common -->
+    <string name="app_name">Change it</string>
+    <string name="test_name">Test name</string>
+</resources>
